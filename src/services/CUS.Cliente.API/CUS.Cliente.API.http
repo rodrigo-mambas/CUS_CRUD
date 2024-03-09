@@ -1,0 +1,6 @@
+@CUS.Cliente.API_HostAddress = http://localhost:5261
+
+GET {{CUS.Cliente.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
